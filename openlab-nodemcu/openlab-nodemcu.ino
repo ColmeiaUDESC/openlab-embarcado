@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
+#include "Credentials.h"
+
 #define timeout_limit (1000 * 30)
-#define __SSID__ ""
-#define __PSWD__ ""
 
 int timeout_check = 0;
 
