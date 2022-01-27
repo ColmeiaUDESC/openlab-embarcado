@@ -8,4 +8,4 @@ Foram utilizados para a aplicação até o momento:
 * NodeMCU - ESP-12F
 
 ### Configurando a IDE do Arduino para trabalhar com o ESP-12F
-Instale a [biblioteca](https://arduino-esp8266.readthedocs.io/en/3.0.2/installing.html) referente aos microcontroladores wifi. Após instalada selecione "NodeMCU 1.0 (ESP-12E Module)" na aba de Ferramentas->Placa 
+Instale a [biblioteca esp8266](https://arduino-esp8266.readthedocs.io/en/3.0.2/installing.html) referente aos microcontroladores wifi. Após instalada selecione "NodeMCU 1.0 (ESP-12E Module)" na aba de Ferramentas->Placa 
